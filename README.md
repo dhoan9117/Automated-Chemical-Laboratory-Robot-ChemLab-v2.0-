@@ -13,7 +13,8 @@ Slow-Motion Algorithm: Tích hợp thuật toán nội suy góc quay (slowServo)
 Safety First: Thiết lập vị trí khởi động an toàn (Safe-start position) để bảo vệ phần cứng.
 
 🛠 Cấu trúc kỹ thuật (Technical Stack)
-Hardware: Arduin<img width="825" height="721" alt="Picture1" src="https://github.com/user-attachments/assets/f443d59b-daf8-437b-b889-154378a8c2ed" />
+Hardware: Arduin<img width="825" height="721" alt="Picture1" src="https://github.com/user-attachments/assets/f443d59b-daf8-437b-b889-154378a8c2ed" 
+                  />
 o Uno/Nano, Servo Motors, HC-05 Bluetooth Module, L298N/L293D (cho Piston).
 
 Firmware: C++ (Arduino Framework).
