@@ -18,3 +18,11 @@ Hardware: Arduino Uno/Nano, Servo Motors, HC-05 Bluetooth Module, L298N/L293D (c
 Firmware: C++ (Arduino Framework).
 
 Software: MIT App Inventor (Mobile App).
+## 🚀 Future Roadmap (Tầm nhìn phát triển)
+
+Để đưa **ChemLab** từ một nguyên mẫu (Prototype) thành một hệ thống nghiên cứu chuyên nghiệp, tôi dự định thực hiện các nâng cấp sau:
+
+* **AI-Powered Vision:** Tích hợp Camera sử dụng thuật toán Deep Learning để tự động định vị dụng cụ thí nghiệm, giảm thiểu sai số do điều khiển thủ công.
+* **Haptic Feedback & Sensors:** Nâng cấp đầu hút với cảm biến áp suất và cảm biến hóa lý (pH, Temp) để thực hiện các phản ứng hóa học tự động có điều kiện.
+* **IoT Cloud Integration:** Kết nối hệ thống với Firebase để lưu trữ dữ liệu thí nghiệm thời gian thực, cho phép theo dõi quá trình phản ứng từ xa qua Internet.
+
